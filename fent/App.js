@@ -6,7 +6,7 @@ export default function App() {
     <View style={styles.container}>
       <Text>WELCOME TO 1001 THIEVES STUDIO </Text>
       <Text> FOUNDER & CO-FOUNDER </Text>
-      <Text>Totori and Kartelo</Text>
+      <Text>Totori and Kartel</Text>
       <StatusBar style="auto" />
     </View>
   );
